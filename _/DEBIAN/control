@@ -1,0 +1,10 @@
+Package: com.yourcompany.browser
+Name: Browser
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Aashir
+Author: Aashir
+Section: Tweaks
+Version: 0.0.1-7
+Installed-Size: 96

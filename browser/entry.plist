@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Browser;
+	cell = PSLinkCell;
+	detail = BrowserListController;
+	icon = Browser.png;
+	isController = 1;
+	label = Browser;
+    };
+}
